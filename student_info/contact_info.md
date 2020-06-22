@@ -8,8 +8,8 @@
   - Email: carlo@snapit.solutions
   - github: carlosantos11
 
-  - TraMel Marshall
+- TraMel Marshall
   - Email: tmarshal015@gmail.com
   - github: tre1086
-  
+
   

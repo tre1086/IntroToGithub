@@ -12,6 +12,11 @@ Motivation:
   is possible. 
   
   
-  
+  TraMel Marshall
+  Motivation:
+
+  Wanting to get into web dev/tech field
+  Hands on and videos is my learnign style
+
   
  
